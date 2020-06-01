@@ -1,0 +1,13 @@
+version: '3.3'
+
+services:
+    shiny_server:
+        image: rocker/shiny:latest
+        container_name: shiny_server
+        volumes:
+            # R-code gets stored here
+            - ./src:/srv/shiny-server
+            # log files get stored here
+            - ./log:/var/log/shiny-server
+        ports:
+            - '3838:3838'
