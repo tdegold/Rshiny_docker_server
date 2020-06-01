@@ -12,8 +12,8 @@ Zum Starten einfach `docker-compose up -d` und zum herunterfahren `docker-compos
 
 ## Quellen
 
-[1] *verwendetes docker-hub image* 
+[1] *verwendetes docker-hub image* https://hub.docker.com/r/rocker/shiny
 
-[2] *einfache shiny-applikation*
+[2] *einfache shiny-applikation* https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
-[3] *docker-compose reference guide*
+[3] *docker-compose reference guide* https://docs.docker.com/compose/compose-file/
