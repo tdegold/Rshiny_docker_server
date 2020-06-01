@@ -1,6 +1,6 @@
 # R-Shiny Server mit docker
 
-von Tim Degold, begonnen am 2. Juni 20202
+von Tim Degold, begonnen am 2. Juni 2020
 
 Für mein Diplomprojekt nächstes Jahr könnte es hilfreich sein, einen docker-container zu haben, welcher die zu entwerfende Applikation ausführt.
 
