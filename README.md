@@ -1,4 +1,4 @@
-# R-Shiny Server mit docker
+# R-Shiny Server using docker
 
 von Tim Degold, begonnen am 2. Juni 2020
 
